@@ -1,5 +1,7 @@
 # Jupyter Docker Stacks
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/8697329a-8c76-4379-ab63-815674553b3c.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/docker-stacks?orgId=666444378491)  
+
 [![Github actions badge](https://github.com/jupyter/docker-stacks/actions/workflows/docker.yml/badge.svg)](https://github.com/jupyter/docker-stacks/actions/workflows/docker.yml "Docker images build status")
 [![Read the Docs badge](https://img.shields.io/readthedocs/jupyter-docker-stacks.svg)](https://jupyter-docker-stacks.readthedocs.io/en/latest/ "Documentation build status")
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/jupyter/docker-stacks/master.svg)](https://results.pre-commit.ci/latest/github/jupyter/docker-stacks/master "pre-commit.ci build status")
